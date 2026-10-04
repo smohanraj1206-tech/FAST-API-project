@@ -74,3 +74,10 @@ Thumbs.db
 
 do_push.ps1
 push_result.txt
+
+# Machine Learning model files
+*.pkl
+*.pt
+*.pth
+*.h5
+*.joblib
