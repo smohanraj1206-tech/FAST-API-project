@@ -71,3 +71,6 @@ venv.bak/
 # OS files
 .DS_Store
 Thumbs.db
+
+do_push.ps1
+push_result.txt
